@@ -1,8 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user execute please :wqRegister for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
-    <hr>
+    <h1>New user execute please :wqRegister for DevOps nd  Learning</h1>
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
